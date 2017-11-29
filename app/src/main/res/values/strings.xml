@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application33</string>
+    <string name="no_network_connection_toast">No network connection found</string>
+</resources>
